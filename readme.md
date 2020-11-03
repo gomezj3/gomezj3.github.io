@@ -87,6 +87,9 @@ Once you have uploaded your resume written in markdown. With the link from step 
  * __Author__: [Johnnus Gomez](https://github.com/gomezj3)
  * __Resource author__: [Josef Jezek](https://gist.github.com/JosefJezek/5917040) 
  * Group Peer-Review
+   * [Connor Bean](https://github.com/williamconnorbean)
+   * [Conner Kulbaski](https://github.com/ckulbaski)
+   * Ayush Patel
 
  * Jekyll Slate-theme author: [Ben Balter](https://github.com/benbalter)
 &nbsp;
@@ -103,7 +106,7 @@ Once you have uploaded your resume written in markdown. With the link from step 
 
 2. Why is my online resume not loading?
 * It might take a couple of minutes for your online resume to be displayed. Be patient.
->If problem still persists, [see Github documentation for more assistance.](https://docs.github.com/en/enterprise-   server@2.20/github/working-with-github-pages)
+> If problem still persists, [see Github documentation for more assistance.](https://docs.github.com/en/enterprise-server@2.20/github/working-with-github-pages)
 
 
 
