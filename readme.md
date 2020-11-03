@@ -51,7 +51,7 @@ This section of the README contains instructions on how to host an online resume
 
 2. Add your resume written in Markdown named _index.md_ on your Github. Rename your file on your computer before uploading, or follow the steps shown on the gif.
 
-![Alt Text](https://s8.gifyu.com/images/Uploading-markdown-on-github9fd9f34c6645a939.gif) 
+![Alt Text](https://s8.gifyu.com/images/Uploading-resume-in-markdown.gif) 
 
 > * In order to write your resume in Markdown, you would need a markdown editor such as Visual Studio Code, an online Markdown editor like StackEdit or you can use Github itself. 
 
