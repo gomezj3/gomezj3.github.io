@@ -47,30 +47,30 @@ This section of the README contains instructions on how to host an online resume
 
 1. Create a [Github](http://github.com) account. Github allows you to host a page by making a new repository named _\<SiteTitle>\.github.io_ 
 
-![Alt Text](https://media.giphy.com/media/yKkUmEeGy1RGndC7Jr/giphy.gif) 
+![Alt Text](https://s8.gifyu.com/images/Creating-a-new-repository.gif) 
 
 2. Add your resume written in Markdown named _index.md_ on your Github. Rename your file on your computer before uploading, or follow the steps shown on the gif.
 
-![Alt Text](https://media.giphy.com/media/8ardbWGK9mTj7eUso2/giphy.gif) 
+![Alt Text](https://s8.gifyu.com/images/Uploading-markdown-on-github9fd9f34c6645a939.gif) 
 
 > * In order to write your resume in Markdown, you would need a markdown editor such as Visual Studio Code, an online Markdown editor like StackEdit or you can use Github itself. 
 
-![Alt Text](https://s8.gifyu.com/images/typing-your-resume-in-markdown.gif)
+![Alt Text](https://s8.gifyu.com/images/Formatting-your-resume-in-markdown.gif)
 
 
 3. Design your online resume by adding a Jekyll template.
 
- ![Alt Text](https://media.giphy.com/media/HoMttuZxu2nrpwRm9S/giphy.gif)
+ ![Alt Text](https://s8.gifyu.com/images/Adding-a-theme-on-your-repo.gif)
 
 4. Load your online resume by clicking on the link located on the settings and enjoy. 
 
-![Alt Text](https://media.giphy.com/media/8bV6G4ZNG55lwS2FOK/giphy.gif)
+![Alt Text](https://s8.gifyu.com/images/Visiting-your-website.gif)
 
 &nbsp;
 
 Once you have uploaded your resume written in markdown. With the link from step 4, access the finish product and it should look like this:
 
-![Alt Text](https://media.giphy.com/media/sgUdBGYZrgSTgOehaQ/giphy.gif)
+![Alt Text](https://s8.gifyu.com/images/Showing-my-resume.gif)
 &nbsp;
 # More Resources
 
