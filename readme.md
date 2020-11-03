@@ -61,7 +61,7 @@ This section of the README contains instructions on how to host an online resume
 
 3. Design your online resume by adding a Jekyll template.
 
-![Alt Text](https://s8.gifyu.com/images/Adding-themes-on-your-static-site.gif) 
+![Alt Text](https://github.com/gomezj3/gomezj3.github.io/blob/master/Adding%20a%20theme%20on%20your%20repo.gif) 
 
 4. Load your online resume by clicking on the link located on the settings and enjoy. 
 
