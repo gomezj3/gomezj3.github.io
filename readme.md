@@ -45,13 +45,14 @@ This README is catered towards Computer Science students who are looking to host
 # Steps on How-to-Host your Online Resume
 This section of the README contains instructions on how to host an online resume. 
 
-1. Create a [Github](http://github.com) account. Github allows you to host a page by making a new repository named _\<SiteTitle>\.github.io_  ![Alt Text](https://media.giphy.com/media/yKkUmEeGy1RGndC7Jr/giphy.gif)
+1. Create a [Github](http://github.com) account. Github allows you to host a page by making a new repository named _\<SiteTitle>\.github.io_ 
+![Alt Text](https://media.giphy.com/media/yKkUmEeGy1RGndC7Jr/giphy.gif)
 
 2. Add your resume written in Markdown named _index.md_ on your Github. Rename your file on your computer before uploading, or follow the steps shown on the gif. ![Alt Text](https://media.giphy.com/media/8ardbWGK9mTj7eUso2/giphy.gif) 
 
 > * In order to write your resume in Markdown, you would need a markdown editor such as Visual Studio Code, an online Markdown editor like StackEdit or you can use Github itself. 
 ![Alt Text](https://media.giphy.com/media/8E3wZseQVv984EWfhq/giphy.gif)
-
+<img src="https://media.giphy.com/media/8E3wZseQVv984EWfhq/giphy.gif" width="1000" height="400" />
 
 3. Design your online resume by adding a Jekyll template.
 
