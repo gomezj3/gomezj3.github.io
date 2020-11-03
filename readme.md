@@ -96,12 +96,12 @@ Once you have uploaded your resume written in markdown. With the link from step 
 
 1. How to make a change in your online resume? 
 
-Using Github's built in editor:
-1) Click on the file you want to edit.
-2) Click on the pen icon to edit.
-3) Save your changes by clicking on _commit changes_ to main.
+   Using Github's built in editor:
+     1) Click on the file you want to edit located on the main repository.
+     2) Click on the pen icon to edit (shown on the second gif on step 2).
+     3) Save your changes by clicking on _commit changes_ to main.
 
-2. Why is online resume not loading?
+2. Why is my online resume not loading?
 * It might take a couple of minutes for your online resume to be displayed. Be patient.
 >If problem still persists, [see Github documentation for more assistance.](https://docs.github.com/en/enterprise-   server@2.20/github/working-with-github-pages)
 
