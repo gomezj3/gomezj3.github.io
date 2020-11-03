@@ -47,7 +47,7 @@ This section of the README contains instructions on how to host an online resume
 
 1. Create a [Github](http://github.com) account. Github allows you to host a page by making a new repository named _\<SiteTitle>\.github.io_ 
 
-![Alt Text](https://s8.gifyu.com/images/Creating-a-new-repository.gif) 
+![Alt Text](https://s8.gifyu.com/images/Creating-a-new-repositorybc2c4b42b3b710f6.gif) 
 
 2. Add your resume written in Markdown named _index.md_ on your Github. 
 > If file is not named, _index.md_. Rename your file on your computer before uploading, or follow the steps shown on the gif.
