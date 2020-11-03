@@ -54,7 +54,7 @@ This section of the README contains instructions on how to host an online resume
 
 ![Alt Text](https://github.com/gomezj3/gomezj3.github.io/blob/master/Uploading%20resume%20in%20markdown.gif) 
 
-> * In order to write your resume in Markdown, you would need a markdown editor such as Visual Studio Code, an online Markdown editor like StackEdit or you can use Github itself. 
+> In order to write your resume in Markdown, you would need a markdown editor such as Visual Studio Code, an online Markdown editor like StackEdit or you can use Github itself. 
 
 ![Alt Text](https://github.com/gomezj3/gomezj3.github.io/blob/master/Formatting%20your%20resume%20in%20markdown.gif)
 
@@ -106,7 +106,7 @@ Once you have uploaded your resume written in markdown. With the link from step 
 
 2. Why is my online resume not loading?
 * It might take a couple of minutes for your online resume to be displayed. Be patient.
-> If problem still persists, [see Github documentation for more assistance.](https://docs.github.com/en/enterprise-server@2.20/github/working-with-github-pages)
+* If problem still persists, [see Github documentation for more assistance.](https://docs.github.com/en/enterprise-server@2.20/github/working-with-github-pages)
 
 
 
