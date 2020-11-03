@@ -1,7 +1,6 @@
 # **Johnnus Gomez**
-### 925 Minto Street Winnipeg, Manitoba R3G 2R7
-### Cellular Phone: (204) 979-7824
 ### Email: gomezj3@myumanitoba.ca
+### Github: https://github.com/gomezj3
 
 &nbsp;
 
