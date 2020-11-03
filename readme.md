@@ -56,7 +56,8 @@ This section of the README contains instructions on how to host an online resume
 > * In order to write your resume in Markdown, you would need a markdown editor such as Visual Studio Code, an online Markdown editor like StackEdit or you can use Github itself. 
 
 ![Alt Text](https://media.giphy.com/media/8E3wZseQVv984EWfhq/giphy.gif)
-<img src="https://media.giphy.com/media/8E3wZseQVv984EWfhq/giphy.gif" height="800" width="400" />
+
+<img src="https://media.giphy.com/media/8E3wZseQVv984EWfhq/giphy.gif" height="400" width="800" />
 
 3. Design your online resume by adding a Jekyll template.
 
