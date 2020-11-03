@@ -42,7 +42,7 @@ Lightweight markup languages displays the words you typed plainly. Ofcourse, you
 
 &nbsp;
 
-# Steps on How-to-Host your Online Resume
+# Steps on How to Host your Online Resume
 This section of the README contains instructions on how to host an online resume. 
 
 1. Create a [Github](http://github.com) account. Github allows you to host a page by making a new repository named _\<SiteTitle>\.github.io_ 
