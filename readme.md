@@ -57,7 +57,7 @@ This section of the README contains instructions on how to host an online resume
 
 ![Alt Text](https://media.giphy.com/media/8E3wZseQVv984EWfhq/giphy.gif)
 
-<img src="https://media.giphy.com/media/8E3wZseQVv984EWfhq/giphy.gif" height="400" width="800" />
+<img src="https://gfycat.com/sophisticatedvaguearizonaalligatorlizard" height="400" width="800" />
 
 3. Design your online resume by adding a Jekyll template.
 
