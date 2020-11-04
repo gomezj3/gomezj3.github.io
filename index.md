@@ -1,6 +1,6 @@
 # **Johnnus Gomez**
 ### Email: gomezj3@myumanitoba.ca
-### Github: https://github.com/gomezj3
+### Github: [https://github.com/gomezj3](https://github.com/gomezj3)
 
 &nbsp;
 
@@ -38,19 +38,19 @@
   
 &nbsp;
 # Volunteering Experience
-> #### Youth in Philanthropy &emsp; &emsp; &emsp; (January 2016 - June 2016)
-> #### Daniel Mcintyre Collegiate Institute 
+> __Youth in Philanthropy__ &emsp; &emsp; &emsp; (January 2016 - June 2016)
+> __Daniel Mcintyre Collegiate Institute__
 
 
 &nbsp;
 
 # Employment  History
 
-> #### Part-Time Server 	&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;	   (April 2016-May 2018)
-> #### Mryna’s Café and Catering
-> #### Winnipeg, Manitoba
+> __Part-Time Server__ 	&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;	   (April 2016-May 2018)
+> __Mryna’s Café and Catering__
+> __Winnipeg, Manitoba__
 &nbsp;
-> #### Part-Time Packer 		&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;	(June 2016-August 2016)
-> #### Perth’s Dry Cleaning
-> #### Winnipeg, Manitoba
+> __Part-Time Packer__ 		&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;	(June 2016-August 2016)
+> __Perth’s Dry Cleaning__
+> __Winnipeg, Manitoba__
 
