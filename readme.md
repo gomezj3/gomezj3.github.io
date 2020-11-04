@@ -10,20 +10,20 @@ This README is catered towards computer science students who are looking to host
 
 # Prerequisites
  * Github account
- * Resume formatted in Markdown
+ * Resume formatted in [Markdown](https://gist.github.com/JosefJezek/5917040)
 
 
 &nbsp;
 # Tools and Principles of Technical Writing
 Why host your resume online instead of keeping it as a PDF format? 
-* According to Etter, hosting a file online encourages collaboration as it enables easier access for contributors. With information being updated continously, Etter mentioned that downloaded PDFs are ticking time bombs as most of the time it just sits on our computer after being downloaded containing stale information. An online resume allows you to keep your information up-to-date as well as allows you and employers to access it through the web.
+* According to Etter, hosting a file online encourages collaboration as it enables easier access for contributors. With information being updated continously, Etter mentioned that downloaded PDFs are ticking time bombs as most of the time it just sits on our computer after being downloaded making the information stale. An online resume allows you to keep your information up-to-date as well as allows you and employers to access it through the web.
 
 
 
 &nbsp;
 
  ### [Github Pages](https://pages.github.com/)
-Github is a version control systems that allows you to upload your projects online for other creators with the same interest to contribute in, and vice versa. Github offers Github pages that allows you to host your online resume for free. According to Etter, with regards to  writing a technical documentation, version control systems allow the documentation to stay in sync with the project as it is located in the same repository, and it encourages developers to contribute as well. 
+Github is a version control systems that allows you to upload your projects online for other creators with the same interest to contribute in, and vice versa. Github offers Github pages that allows you to host your online resume for free. With regards to  writing a technical documentation, Etter mentioned that version control systems allow the documentation to stay in sync with the project as it is located in the same repository, and it encourages developers to contribute as well. 
 
  Why do we use Github pages for hosting a resume? 
  1) Free-of-charge.
@@ -34,7 +34,7 @@ Github is a version control systems that allows you to upload your projects onli
 
  ### Lightweight Markup Language (e.g., [Markdown](https://gist.github.com/JosefJezek/5917040)) 
 
-Lightweight markup languages have become a staple in technical writing due to it being straightforward since it is written in a human-readable way which also encourages collaboration. Markdown is an infamous lightweight markup language due to its easy syntax. With this easy syntax, markdown lacks some of the advanced features present on other lighweight markup languages. According to Etter, people who are knowledgable with the interest of the project are more likely to contribute when given an easier way to express their creativity, hence markdown being used in today's technical writing as it has the lowest learning curve out of all the lightweight markup languages.  
+Lightweight markup languages have become a staple in technical writing due to it being straightforward since it is written in a human-readable way which also encourages collaboration. Markdown is a famous lightweight markup language due to its easy syntax. With this easy syntax, markdown lacks some of the advanced features present on other lighweight markup languages. According to Etter, people who are knowledgable with the interest of the project are more likely to contribute when given an easier way to express their creativity, hence markdown being used in today's technical writing as it has the lowest learning curve out of all the lightweight markup languages.  
 
 &nbsp;
 ### A Static Site Generator (e.g., [Jekyll](https://jekyllrb.com/))
@@ -107,7 +107,5 @@ Once you have uploaded your resume written in Markdown. With the link from step 
 2. Why is my online resume not loading?
 * It might take a couple of minutes for your online resume to be displayed. Be patient.
 * If problem still persists, [see Github documentation for more assistance.](https://docs.github.com/en/enterprise-server@2.20/github/working-with-github-pages)
-
-
 
 
