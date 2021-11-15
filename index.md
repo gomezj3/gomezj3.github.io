@@ -1,5 +1,5 @@
 # **Johnnus Gomez**
-### Email: gomezjohnnus24@gmail.come
+### Email: gomezjohnnus24@gmail.com
 ### Github: [https://github.com/gomezj3](https://github.com/gomezj3)
 
 &nbsp;
@@ -9,7 +9,7 @@ A team player who is willing to improve. Hardworking, eager, and committed on pr
 &nbsp;
 # Education
 ## Post-Secondary
-> __Bachelor of Science__ &emsp; &emsp; &emsp; (September 2017-Present)                                      
+> __Bachelor of Science__ &emsp; &emsp; &emsp; (September 2017-October 2021)                                      
 __University of Manitoba__                              
 Major: Computer Science
 
