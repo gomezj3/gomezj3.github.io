@@ -1,5 +1,5 @@
 # **Johnnus Gomez**
-### Email: gomezj3@myumanitoba.ca
+### Email: gomezjohnnus24@gmail.come
 ### Github: [https://github.com/gomezj3](https://github.com/gomezj3)
 
 &nbsp;
